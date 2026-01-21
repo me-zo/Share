@@ -1,0 +1,22 @@
+react-dom.min.js?ver=18.3.1.1:10 Error: Minified React error #31; visit https://reactjs.org/docs/error-decoder.html?invariant=31&args[]=object%20with%20keys%20%7Blabel%2C%20value%7D for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Bn (react-dom.min.js?ver=18.3.1.1:10:35319)
+    at e (react-dom.min.js?ver=18.3.1.1:10:40336)
+    at fr (react-dom.min.js?ver=18.3.1.1:10:54689)
+    at Qs (react-dom.min.js?ver=18.3.1.1:10:121946)
+    at wl (react-dom.min.js?ver=18.3.1.1:10:88341)
+    at bl (react-dom.min.js?ver=18.3.1.1:10:88269)
+    at yl (react-dom.min.js?ver=18.3.1.1:10:88132)
+    at il (react-dom.min.js?ver=18.3.1.1:10:84984)
+    at fl (react-dom.min.js?ver=18.3.1.1:10:85364)
+    at Nn (react-dom.min.js?ver=18.3.1.1:10:32442)
+ar @ react-dom.min.js?ver=18.3.1.1:10
+a.componentDidCatch.t.callback @ react-dom.min.js?ver=18.3.1.1:10
+at @ react-dom.min.js?ver=18.3.1.1:10
+Jr @ react-dom.min.js?ver=18.3.1.1:10
+Zr @ react-dom.min.js?ver=18.3.1.1:10
+Gr @ react-dom.min.js?ver=18.3.1.1:10
+(anonymous) @ react-dom.min.js?ver=18.3.1.1:10
+xl @ react-dom.min.js?ver=18.3.1.1:10
+fl @ react-dom.min.js?ver=18.3.1.1:10
+Nn @ react-dom.min.js?ver=18.3.1.1:10
+(anonymous) @ react-dom.min.js?ver=18.3.1.1:10
